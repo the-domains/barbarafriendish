@@ -1,0 +1,28 @@
+name: barbarafriendish
+favicon: null
+layout_spectrum: 0.8172705315519124
+typography_spectrum: 0.3966999121475965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6897559489589185
+  lightness: 0.17617911845445633
+  saturation: 0.6787158416118473
+  rhythmicContrast: 0.20667612017132342
+purpose: []
